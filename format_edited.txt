@@ -1,0 +1,15 @@
+Spot ID
+Timestamp
+Reporter
+Reporter's Grid
+SNR
+Frequency
+Call Sign
+Grid
+Power
+Drift
+Distance
+Azimuth
+Band
+Version
+Code
